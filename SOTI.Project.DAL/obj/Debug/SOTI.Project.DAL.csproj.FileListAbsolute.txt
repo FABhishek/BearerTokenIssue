@@ -1,0 +1,6 @@
+C:\Users\abhsharma\OneDrive - SOTI Inc\Desktop\DOTNET\C#\SOTI.WebAPI\SOTI.Project.DAL\bin\Debug\SOTI.Project.DAL.dll
+C:\Users\abhsharma\OneDrive - SOTI Inc\Desktop\DOTNET\C#\SOTI.WebAPI\SOTI.Project.DAL\bin\Debug\SOTI.Project.DAL.pdb
+C:\Users\abhsharma\OneDrive - SOTI Inc\Desktop\DOTNET\C#\SOTI.WebAPI\SOTI.Project.DAL\obj\Debug\SOTI.Project.DAL.csproj.AssemblyReference.cache
+C:\Users\abhsharma\OneDrive - SOTI Inc\Desktop\DOTNET\C#\SOTI.WebAPI\SOTI.Project.DAL\obj\Debug\SOTI.Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abhsharma\OneDrive - SOTI Inc\Desktop\DOTNET\C#\SOTI.WebAPI\SOTI.Project.DAL\obj\Debug\SOTI.Project.DAL.dll
+C:\Users\abhsharma\OneDrive - SOTI Inc\Desktop\DOTNET\C#\SOTI.WebAPI\SOTI.Project.DAL\obj\Debug\SOTI.Project.DAL.pdb
